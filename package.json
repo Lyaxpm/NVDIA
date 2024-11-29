@@ -1,0 +1,20 @@
+{
+  "name": "NVDIAbot",
+  "version": "1.0.0",
+  "description": "Simple base made by anggazyy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:pairing": "node index.js --pairing"
+  },
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "awesome-phonenumber": "^2.64.0",
+    "pino": "^7.11.0",
+    "systeminformation": "^5.23.5",
+    "jimp": "^0.16.1",
+    "chalk": "^5.3.0"
+  }
+}
