@@ -1,6 +1,6 @@
 # WhatsApp Bot dengan Multi-Prefix dan Koneksi Pairing
 
-Ini adalah bot WhatsApp sederhana yang dibangun menggunakan Node.js dan `@whiskeynvdiaet/baileys`, sebuah library untuk berinteraksi dengan API WhatsApp Web. Bot ini memiliki dukungan multi-prefix, penanganan pesan, dan koneksi berbasis pairing untuk menghubungkan bot dengan WhatsApp. Bot dapat merespon berbagai perintah seperti `!halo`, `!menu`, `!ping`, dan banyak lagi, sambil memberikan antarmuka log yang elegan dengan warna yang menarik.
+Ini adalah bot WhatsApp sederhana yang dibangun menggunakan Node.js dan `@whiskeysockets/baileys`, sebuah library untuk berinteraksi dengan API WhatsApp Web. Bot ini memiliki dukungan multi-prefix, penanganan pesan, dan koneksi berbasis pairing untuk menghubungkan bot dengan WhatsApp. Bot dapat merespon berbagai perintah seperti `!halo`, `!menu`, `!ping`, dan banyak lagi, sambil memberikan antarmuka log yang elegan dengan warna yang menarik.
 
 ## Fitur
 
